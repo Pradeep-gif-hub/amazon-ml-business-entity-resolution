@@ -11,3 +11,4 @@ output/
 Relentness_submission/
 *.pkl
 code/business_entity_resolution/scratch_output/
+backups/**/*.tsv
