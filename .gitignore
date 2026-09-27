@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.DS_Store
+
+dataset/
+output/
+*.zip
+Relentness_submission/
+*.pkl
